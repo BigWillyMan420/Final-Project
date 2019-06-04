@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FlappyPlan
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ FlappyPlan\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=bool
+comment1.target=void\ addPipe(boolean)
+comment2.params=
+comment2.target=void\ jump()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=g\ pipe
+comment4.target=void\ paintPipe(java.awt.Graphics,\ java.awt.Rectangle)
+comment5.params=g
+comment5.target=void\ repaint(java.awt.Graphics)
+numComments=6
